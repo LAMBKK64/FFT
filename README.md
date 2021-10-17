@@ -29,7 +29,9 @@
 
 ![bc2](https://user-images.githubusercontent.com/92636271/137636948-b18ab686-00f4-4c81-ae12-89085cc3a71b.PNG)
 - Số lượng phép toán cần thực hiện ít hơn 4 lần so với DFT nhưng còn lớn hơn nhiều so với hàm có sẵn trên Matlab:
-- 
+
+*Bảng so sánh số phép tính cần thực hiện*
+
 ![bc5](https://user-images.githubusercontent.com/92636271/137638094-7c3caf93-f949-4fa9-9bdf-a20f5eec89e0.PNG)
 
 
