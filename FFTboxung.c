@@ -2,7 +2,7 @@
 #include<math.h>
 #include<complex.h>
 #define MAX 1000
-double PI=3.14159265;
+double PI=atan2(1,1)*4;
 struct Complex
 {
   float real;
