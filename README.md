@@ -20,7 +20,7 @@ This is the C programming for the FFT algorithm.  We give the basic divide-and-c
 - Signal X[k].
 
 ## Evaluate:
--	Khi sử dụng code C ta thu được kết quả tương tự khi sử dụng hàm có sẵn trên Matlab.
+-	When using C code, we get the same results when using the function available on Matlab.
 
 *Results when using C programming:*
 ![bc1](https://user-images.githubusercontent.com/92636271/137636886-66e60bab-5baf-4ae9-82f0-d863a1e6f944.PNG)
